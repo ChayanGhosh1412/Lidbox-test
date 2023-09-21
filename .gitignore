@@ -1,0 +1,12 @@
+*.egg-info
+*.log
+*.mp3
+*.py[co]
+*.wav
+.DS_Store
+.hypothesis
+.idea/*
+.tox
+__pycache__
+build
+dist
